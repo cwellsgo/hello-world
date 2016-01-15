@@ -1,2 +1,6 @@
 # hello-world
-hello world test repository
+=================================
+Hi Humans!
+
+cwellsgo here, I like turtles
+you should too
